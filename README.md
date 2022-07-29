@@ -9,7 +9,7 @@ A simple adblockplus filter to block discord telemetry on browsers.
 Install [AdBlockPlus](https://adblockplus.org/en/download) (Available on Chrome, Firefox, Opera, Safari, Edge, Internet Explorer, and Yandex Browser)
 
 ### Add the filter list
-Go to the Advanced tab in the AdBlockPlus settings then click add a new filter list. Put https://raw.githubusercontent.com/jacobvd0/block-discord-telementry/main/filter.txt then click add. After that AdBlock plus should be blocking discord telementry (You can see this in the blocked ads statistic)
+Go to the Advanced tab in the AdBlockPlus settings then click add a new filter list. Put https://raw.githubusercontent.com/jacobvd0/block-discord-telementry/main/filter.txt as the URL then click add. After that AdBlock plus should be blocking discord telementry (You can see this in the blocked ads statistic)
 ![Example](https://raw.githubusercontent.com/jacobvd0/block-discord-telementry/main/images/filterlist.png)
 
 ## FAQ
