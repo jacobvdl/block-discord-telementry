@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version: 0.1
+! Title: Block Discord Telementry
+! Last modified: 29 Jul 2022 9:08 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/jacobvd0/block-discord-telementry
+!
+||discord.com/api/*/science
+||discord.com/api/*/channels/*/typing
