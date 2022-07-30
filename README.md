@@ -22,3 +22,8 @@ You can do this by installing [OpenAsar](https://openasar.dev/) which has settin
 
 No, it Doesn't. You're still sending requests to their "science" url which is used for telementry purposes.
 
+## Screenshots
+
+![Showing requests being blocked](https://raw.githubusercontent.com/jacobvd0/block-discord-telementry/main/images/3339201f2f1bcb3069562455117e3a56.png)
+
+![AdBlockPlus](https://raw.githubusercontent.com/jacobvd0/block-discord-telementry/main/images/4a07a9fe7760ee4dd1b6bf5a882dc584.png)
